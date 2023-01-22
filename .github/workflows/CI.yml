@@ -1,9 +1,9 @@
 name: CI Angular app through GitHub Actions
 on: 
    push:
-      branches: ["unit-testing"]
+      branches: ["integration-testing"]
    pull_request:
-     branches: ["unit-testing"]
+     branches: ["integration-testing"]
 jobs:
   build:
     runs-on: ubuntu-latest
