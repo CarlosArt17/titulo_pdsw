@@ -7,14 +7,13 @@
     border-style: solid;
     margin: 0vw;
     border-radius: 50px;
-    background: linear-gradient(145deg, #17d3a4, #1cfac3);
+    background: linear-gradient(145deg, #178f9f, #16bafa);
     width: 50vw;
     height: 100%;
     font-family: "times new roman", times, serif;
     font-size: 15px;
 
 }
-
 
 .input {
     font-size: 1em;
@@ -47,15 +46,15 @@
     border-radius: 1vh;
     border-style: solid;
     font-size: 1em;
-  }
-  .data-input2 {
+}
+.data-input2 {
     width: 10vw;
     height: 100%;
     padding: .30em;
     border-radius: 1vh;
     border-style: solid;
     font-size: 1em;
-  }
+}
 
 
 .btn {
@@ -73,9 +72,9 @@
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
-  }
+}
   
-  .btn:hover {
+.btn:hover {
     background: #3cb0fd;
     background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
     background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
@@ -83,7 +82,9 @@
     background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
     background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
     text-decoration: none;
-  }
+}
+
+
 
 .result-box{
     font-size: 12px;
